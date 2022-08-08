@@ -61,11 +61,7 @@ app.post("/failure", function(req, res){
     res.redirect("/")
 })
 app.listen(process.env.PORT || 3000, function(){
-    console.log("Listening on port 4000")
+    console.log("Listening on port 3000")
 })
 
-
-//0624c90773058c20703335504f54548b-us11
-
-//9b3c490596
 
